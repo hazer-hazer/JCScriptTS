@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"noImplicitAny": true,
+		"removeComments": true,
+		"preserveConstEnums": true,
+		"outDir": "./built",
+		"target": "es2016"
+	},
+	"include": [ "jacy.ts", "src/*.ts" ]
+}
